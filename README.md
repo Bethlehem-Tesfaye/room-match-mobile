@@ -1,16 +1,26 @@
-# room_match
+# Room-Match
 
-A  Flutter project.
+## Overview
 
-## Getting Started
+Room-Match is a smart digital housing platform designed to simplify and modernize the rental process by connecting property owners and tenants through a centralized system. The platform aims to address common challenges in the housing market, including limited transparency, high brokerage costs, and time-consuming manual rental procedures.
 
-This project is a starting point for a Flutter application.
+The system enables property owners to list, manage, and monitor rental properties, while allowing tenants to efficiently search for suitable accommodations using advanced filtering options such as location, price range, and property type.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Team
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| No. | Name              | ID          |
+| --- | ----------------- | ----------- |
+| 1   | BETHEL ASNAKE     | UGR/9526/15 |
+| 2   | BETHLEHEM TESFAYE | UGR/4390/15 |
+| 3   | DEBORAH TIZAZU    | UGR/7761/15 |
+| 4   | FEBEN SOLOMON     | UGR/7274/15 |
+
+## Technologies Used
+
+* Flutter
+* Dart
+* Firebase
+* Git & GitHub
+
+
