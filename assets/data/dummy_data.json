@@ -1,0 +1,72 @@
+{
+  "home": {
+    "filterChips": ["Location", "Budget", "Room type"],
+    "roomTypeOptions": ["Apartment", "House", "Studio"],
+    "greetingName": "Alex",
+    "roomsNearText": "new rooms near Central University",
+    "headerAvatarUrl": "https://i.pravatar.cc/100",
+    "featuredListings": [
+      {
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
+        "price": "420 ETB per month",
+        "title": "Cozy Studio near Main Campus ",
+        "location": "6 kilo, Addis Ababa",
+        "details": "2 roommates",
+        "propertyType": "Studio",
+        "rentAmount": 12000,
+        "tags": ["Location", "Budget"]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+        "price": "15000 ETB per month",
+        "title": "Modern ensuite with city access",
+        "location": "Ayat, Addis Ababa",
+        "details": "1 roommate",
+        "propertyType": "Apartment",
+        "rentAmount": 550,
+        "tags": ["Room type"]
+      }
+    ],
+    "recentListings": [
+      {
+        "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+        "title": "Bright Room in Shared Flat",
+        "price": "28000 ETB per month",
+        "snippet": "Sunny room with built-in wardrobe and high-speed Wi-Fi. Available from June.",
+        "location": "Mexico, Addis Ababa",
+        "distance": "2.1 miles",
+        "roommates": "3 RM",
+        "address": "142 Olympic Way, Wembley HA9 0NP",
+        "propertyType": "Apartment",
+        "rentAmount": 380,
+        "tags": ["Location", "Room type"]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+        "title": "Penthouse Room w/ City View",
+        "price": "72000 ETB per month",
+        "snippet": "Experience luxury living in the heart of the city. Access to gym and pool.",
+        "location": "Kebena, Addis Ababa",
+        "distance": "0.8 miles",
+        "roommates": "2 RM",
+        "address": "2Kebena, Addis Ababa",
+        "propertyType": "House",
+        "rentAmount": 720,
+        "tags": ["Budget", "Room type"]
+      }
+    ]
+  },
+  "profile": {
+    "avatarUrl": "https://i.pravatar.cc/300",
+    "name": "Abebe kebede",
+    "email": "abebe.kebede@uni.edu",
+    "phone": "+1 (555) 234-5678",
+    "bio": "Final year Architecture student at Central University. Looking for a quiet, study-friendly environment near campus.",
+    "hints": {
+      "name": "Abebe kebede",
+      "email": "abebe.kebede@uni.edu",
+      "phone": "+251 (9) 234-5678",
+      "bio": "A university student living in a shared flat..."
+    }
+  }
+}
