@@ -1,0 +1,113 @@
+[
+  {
+    "id": "prop_001",
+    "ownerId": "usr_001",
+    "title": "Modern Apartment Near AAU",
+    "rentAmount": 12000,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "location": "4 Killo",
+    "address": "4 Killo, Addis Ababa",
+    "phone": "+251911223344",
+    "email": "abebe@gmail.com",
+    "amenities": [
+      "WiFi",
+      "Gym Access"
+    ],
+    "availabilityDate": "2026-06-01",
+    "leaseLength": "12 Months",
+    "images": [],
+    "verified": true,
+    "createdAt": "2026-05-30T12:00:00Z"
+  },
+  {
+    "id": "prop_mps54w0m39icir",
+    "ownerId": "usr_mps519o5hxkrif",
+    "title": "sunshine apartment",
+    "rentAmount": 50000,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "location": "bole",
+    "address": "bole",
+    "phone": "0912345678",
+    "email": "deb@gmail.com",
+    "amenities": [
+      "High-speed WiFi",
+      "24/7 Security"
+    ],
+    "availabilityDate": "2026-05-30",
+    "leaseLength": "12 Months",
+    "images": [],
+    "verified": false,
+    "createdAt": "2026-05-30T09:20:47.639Z"
+  },
+  {
+    "id": "prop_mps5h1e10q55qq",
+    "ownerId": "usr_mps519o5hxkrif",
+    "title": "Noah realestes",
+    "rentAmount": 2000000,
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "location": "summit",
+    "address": "summit",
+    "phone": "0912345678",
+    "email": "deb@gmail.com",
+    "amenities": [
+      "Gym Access"
+    ],
+    "availabilityDate": "2026-05-30",
+    "leaseLength": "12 Months",
+    "images": [
+      "/uploads/img_mps5h1ch9pla7t.jpg",
+      "/uploads/img_mps5h1cjw5jssu.jpg"
+    ],
+    "verified": false,
+    "createdAt": "2026-05-30T09:30:14.473Z"
+  },
+  {
+    "id": "prop_mps6xofx0ap1ck",
+    "ownerId": "usr_mps519o5hxkrif",
+    "title": "ovid housing",
+    "rentAmount": 40000,
+    "propertyType": "Apartment",
+    "bedrooms": 3,
+    "location": "goro",
+    "address": "goro",
+    "phone": "0912345678",
+    "email": "deb@gmail.com",
+    "amenities": [
+      "No Smoking",
+      "Pet Friendly"
+    ],
+    "availabilityDate": "2026-05-30",
+    "leaseLength": "12 Months",
+    "images": [],
+    "verified": false,
+    "createdAt": "2026-05-30T10:11:10.462Z"
+  },
+  {
+    "id": "prop_mps79iskztdgdh",
+    "ownerId": "usr_mps519o5hxkrif",
+    "title": "sunrise real estate",
+    "rentAmount": 70000,
+    "propertyType": "House",
+    "bedrooms": 2,
+    "location": "bole",
+    "address": "bole",
+    "phone": "0912345678",
+    "email": "deb@gmail.com",
+    "amenities": [
+      "Air Conditioning",
+      "High-speed WiFi",
+      "Swimming Pool",
+      "Pet Friendly"
+    ],
+    "availabilityDate": "2026-05-30",
+    "leaseLength": "12 Months",
+    "images": [
+      "/uploads/img_mps79is61z8u3b.jpg"
+    ],
+    "verified": false,
+    "createdAt": "2026-05-30T10:20:23.012Z"
+  }
+]

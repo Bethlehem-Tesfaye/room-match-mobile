@@ -1,0 +1,122 @@
+[
+  {
+    "id": "usr_001",
+    "fullName": "Abebe Kebede",
+    "email": "abebe@gmail.com",
+    "phone": "+251911223344",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZRGdjGj/n3Wf9qQqJ8qJ8qJ8qJ8qJ",
+    "gender": "Male",
+    "role": "owner",
+    "avatarUrl": "",
+    "bio": "Property owner",
+    "createdAt": "2026-05-30T12:00:00Z"
+  },
+  {
+    "id": "usr_mps4z4t7oesfmt",
+    "fullName": "beth",
+    "email": "betty@gmail.com",
+    "phone": "0973840133",
+    "passwordHash": "$2a$10$QH4P5ptaZZ8dq5jhzQ1sm.PJrPVolwo/FVAWGZ3sTC.h4y/uavpCi",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "/uploads/img_mps5jy70lewkj4.jpg",
+    "bio": "a cs graduate student in aau",
+    "createdAt": "2026-05-30T09:16:19.099Z"
+  },
+  {
+    "id": "usr_mps519o5hxkrif",
+    "fullName": "deb",
+    "email": "deb@gmail.com",
+    "phone": "0912345678",
+    "passwordHash": "$2a$10$SFI.BdbP4hdXbYniPDhQ5uyXqQ52JVoEgKxxLrbiGPQLGzPlK7f1i",
+    "gender": "Female",
+    "role": "owner",
+    "avatarUrl": "/uploads/img_mps5ifmrzq3vd4.jpg",
+    "bio": "im a computer science student that owns a house",
+    "createdAt": "2026-05-30T09:17:58.709Z"
+  },
+  {
+    "id": "usr_mps5mgrt369fia",
+    "fullName": "aster",
+    "email": "aster@gmail.com",
+    "phone": "0912345678",
+    "passwordHash": "$2a$10$n0pgunWk/WLL44tms3VZhemELqEs6slQ7YfPLsLRFWp7UQRJjfu9m",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T09:34:27.689Z"
+  },
+  {
+    "id": "usr_mps5phwyb3j3qy",
+    "fullName": "aster",
+    "email": "asters@gmail.com",
+    "phone": "0912345678",
+    "passwordHash": "$2a$10$NKGpqnHcOiJJSHqONEEZBu7YKCPWdqVkkScoE3nxSf2JiaoWMcWlG",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T09:36:49.139Z"
+  },
+  {
+    "id": "usr_mps5s62sul987r",
+    "fullName": "aster",
+    "email": "aster2@gmail.com",
+    "phone": "0912345678",
+    "passwordHash": "$2a$10$..xOsjnuyik7TODhUuIEG.XzSmrh.QKmgXqX4cceAxT3kGqyqnA7S",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T09:38:53.764Z"
+  },
+  {
+    "id": "usr_mps615geut82bm",
+    "fullName": "abc",
+    "email": "abc@gmail.com",
+    "phone": "0973840133",
+    "passwordHash": "$2a$10$7E5mvJ4qK1CRyCcgmRHCEuEzyPWQRWZ72nhtrozxBt/yzao0S4NhO",
+    "gender": "Female",
+    "role": "owner",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T09:45:52.862Z"
+  },
+  {
+    "id": "usr_mps66efarty1u8",
+    "fullName": "helen",
+    "email": "helen@gmail.com",
+    "phone": "09876543",
+    "passwordHash": "$2a$10$Dnn9eLh46lNPxiAjla/sVu/NbBXkimUS/ml.lodqc/6gJen4f5z1K",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "/uploads/img_mps6duu4jgbkkd.jpg",
+    "bio": "",
+    "createdAt": "2026-05-30T09:49:57.766Z"
+  },
+  {
+    "id": "usr_mps8cn6ic908dp",
+    "fullName": "abc@gmail.com",
+    "email": "absc@gmail.com",
+    "phone": "09876543",
+    "passwordHash": "$2a$10$HG8OyhKFN3W5iQgoRPvpBewW4XfyLd1JywBrsrnWR/jrgl5dWuo2y",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T10:50:48.282Z"
+  },
+  {
+    "id": "usr_mps8yv9qilr8fa",
+    "fullName": "beth",
+    "email": "beth@gmail.com",
+    "phone": "09876543",
+    "passwordHash": "$2a$10$0phAinvOm55xip/LdvdvyOOLbUI40dCWQ0Yhj1nwSgMR/ySX76R2.",
+    "gender": "Female",
+    "role": "tenant",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-05-30T11:08:05.198Z"
+  }
+]

@@ -1,0 +1,49 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart (client)
+client/**/doc/api/
+client/**/ios/Flutter/.last_build_id
+client/.dart_tool/
+client/.flutter-plugins-dependencies
+client/.pub-cache/
+client/.pub/
+client/build/
+client/coverage/
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android build outputs
+client/android/app/debug
+client/android/app/profile
+client/android/app/release
+
+# Node.js (server)
+server/node_modules/
+
+# Uploads (optional — remove this line if you want to commit uploaded images)
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Legacy root artifacts (if any remain after moving to client/)
+.dart_tool/
+build/
+.pub/
